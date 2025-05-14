@@ -1,0 +1,10 @@
+PyPDF2
+pdf2image
+Pillow
+faster-whisper
+numpy
+soundfile
+sounddevice
+chromadb
+pytesseract
+sentence_transformers
